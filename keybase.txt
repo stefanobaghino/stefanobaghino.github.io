@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/stefanobaghino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://baghino.me
+  * I am stefanobaghino (https://keybase.io/stefanobaghino) on keybase.
+  * I have a public key with fingerprint 1B8E 86E3 6BB2 B0BE 173A  8C1E B91E 01AB A0E9 EBB6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "1b8e86e36bb2b0be173a8c1eb91e01aba0e9ebb6",
+            "host": "keybase.io",
+            "key_id": "B91E01ABA0E9EBB6",
+            "uid": "eb2c33a95c7f61e9bd4ed3ec76ee8a00",
+            "username": "stefanobaghino"
+        },
+        "merkle_root": {
+            "ctime": 1434958854,
+            "hash": "529053ef0e58212f6112694a65d640eb3f83c804ddeffd8ea6f4d3d48f8fed7081a6c3d01ea98b27c0ebbffb3c9a5378eb07ce61449dc7743c4d811c34e9bf41",
+            "seqno": 250614
+        },
+        "service": {
+            "hostname": "baghino.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1434959215,
+    "expire_in": 157680000,
+    "prev": "703ef10551de51c300f4535f46231559e269ff2083ed47ca2e113f55b90d0815",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUntQFVUchiuPJC941STBGFpLIul2zu6efdyRShQblUgdbcYJu7Nn9+xledzF
+exeCARxGJAl0gBmfDTLmKDK+IXDwD1+oiVySoqGmMdQCKnGo8UUThrTL0JTnr/P4
+ft/v+77fqbVPC7IFn40LPnbg7r0zwYG7OGj9tnN6MYV1pYhyFVNyjka8hrXzSrmE
+clHZpAhLfuLU9HivrhBnlj9+CpNEFRCfX9O9Jgo4eadIlSZZcKtY1bwe4svzaRYX
+BbFABI4wHMY0BphAnpEEGRIsQgKghCVARIIxZ1Jm6n7jma7UJKdbU8zbFBGmArgk
+ZQlIFVNTUix8/uQDwbTMMJKIZF7lIBGxwhKFITLPESJIAFhAP/FNWfIbRJW8OpY8
+mZpXt1TnEl92DnH7dH3SumxoFhCyDCsiQUCsqUvyZ5qliBYBYogKCBJoSJvNIM2J
+rMQhhWMBwYwqMLIAWEUhqqoIROJUVmEUVlAFlSg8EKDEyYwCIJFEAdO8bNZgVcWM
+LEqI4QWCAS8TDrKsqMg8zzIyqwgQygxrmlJZaBrxk02maBeNgAkrtc6+Ak0mlm4r
+vCmPU+ac5iGJyvPphi7rOeZ9pmHkuSzLRlGehWv5mGD3FIUba17FHNz/JwtN6DNx
+iDRESRQpzNN8xK1ZCMRzAjCX1YcUmJw8MBOCACGoEGRqB0BlEYNUlqMZiJBIzMhU
+lQYCQxSWlyWaQMioCGERKGZC6D+TkDOFSh5rZprHKxn5PkKVfmqbHxIUbAsKC7VZ
+fzcoYvrMfz90jRI1kb6/f0tD+lez7gwkUtnHYmrnLvoJRfU2vj4TGg9d98Y2xOSu
+tUe+1FBYOHG4PAneHRrfna/2VyacTyteMKPiM1Sn3Y7OHzxvf/9Psvw7R/2u2MGh
+CwPbR3H74sbj2y87KLqpvLp7/b4FV1fYAuHu8YpB4/kwsf2NM11Lh4zWjRmxH1yZ
+jbefbU7oe+X4nJ1fJs5wBsdGdaQtDM892jmWvr8l8XKvpzcrGUXf2q1e3/lquP1+
+7COjf7PtRnX5au/JW2m9090jh3Mn3n68dfFrW1b39YaBgzWrNqXUpn/bduL65rqw
+tZ0JO6avKq5Y+EJioMp76JPWcmeGK+siVbom40jkxjvfxJV8f+nCzb0H/1qTuqex
+I+5GzFtb3Q0j6641jXQtSg5sSlg58bLj6YaCWqq/o/Lz5Y+5nps4fff5k/Fo2Yue
+pX1SXU83fyiqYPY7lfrKlHd3rPZc+ihSq3M0Jh/v6EmdVe9r2hjSGoioww+Tu5bt
++b0t9Mmp94YfxJ7648PmEwM/Hxgue8CtCO0v+fX0eHd+E3Ccto1emKO42qOO7vsi
+vyakufr+ul3zhvsCzduW2EfLyG+tlYfDHEVD09hfgi42zztiW9OSVPW3nOj+sa2s
+9/STuT8cG3yuSsxoreu8Jo557FdLbu/d1fp13Ng5PmSzPeJKwYDuqH+a0BnIAcOJ
+b86vLH4UUKOHI/8B
+=l7x0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stefanobaghino
+
+==================================================================
