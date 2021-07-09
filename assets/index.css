@@ -22,6 +22,8 @@ body {
   display: inline-block;
   width: 2em;
   height: 2em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
   fill: #c9d1d9;
 }
 
