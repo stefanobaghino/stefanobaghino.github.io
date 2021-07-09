@@ -22,21 +22,7 @@ body {
   display: inline-block;
   width: 2em;
   height: 2em;
-  background-size: cover;
-  margin-left: 1em;
-  margin-right: 1em;
-}
-
-#twitter {
-  background-image: url(https://simpleicons.org/icons/twitter.svg);
-}
-
-#github {
-  background-image: url(https://simpleicons.org/icons/github.svg);
-}
-
-#linkedin {
-  background-image: url(https://simpleicons.org/icons/linkedin.svg);
+  fill: #c9d1d9;
 }
 
 @media 
